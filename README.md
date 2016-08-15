@@ -14,7 +14,7 @@ of a trademarked name, the author uses the names only in an editorial
 fashion, with no intention of infringement of the trademark. Use of a term
 in this book should not be regarded as affecting the validity of any
 trademark or service mark.
-The information in this book is distributed "as is " While everj precaution
+The information in this book is distributed "as is " While every precaution
 was taken to ensure the accuracy of the material, the author assumes no
 responsibility or liability for errors or omissions,
 or for damages
