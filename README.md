@@ -20,3 +20,4 @@ responsibility or liability for errors or omissions,
 or for damages
 resulting from the use of the information contained herein.
 
+Download: http://www.mediafire.com/download/xuzkds358d35dt3/RTFM.pdf
